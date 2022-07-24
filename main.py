@@ -37,7 +37,7 @@ app.add_middleware(
 
 
 class Settings(BaseModel):
-    authjwt_secret_key: str = "jaihind"
+    authjwt_secret_key: str = "se9q3oh7ixb2"
 
 
 # callback to get your configuration
